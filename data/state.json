@@ -1,0 +1,1590 @@
+{
+ "seeded": true,
+ "next": 72,
+ "insumos": [
+  {
+   "id": "i1",
+   "name": "Huevo",
+   "unit": "unidad",
+   "price": 160.0,
+   "qty": 300.0,
+   "min": 150.0
+  },
+  {
+   "id": "i2",
+   "name": "Sal",
+   "unit": "kg",
+   "price": 600.0,
+   "qty": 1.6999999999999997,
+   "min": 0.0
+  },
+  {
+   "id": "i3",
+   "name": "Etiqueta",
+   "unit": "unidad",
+   "price": 164.0,
+   "qty": 520.0,
+   "min": 200.0
+  },
+  {
+   "id": "i4",
+   "name": "Bandeja",
+   "unit": "unidad",
+   "price": 90.0,
+   "qty": 370.0,
+   "min": 0.0
+  },
+  {
+   "id": "i5",
+   "name": "Oregano",
+   "unit": "kg",
+   "price": 12000.0,
+   "qty": 1.447,
+   "min": 0.0
+  },
+  {
+   "id": "i6",
+   "name": "Provenzal",
+   "unit": "kg",
+   "price": 12000.0,
+   "qty": 1.476,
+   "min": 0.0
+  },
+  {
+   "id": "i7",
+   "name": "Pechuga de pollo",
+   "unit": "kg",
+   "price": 6500.0,
+   "qty": 10.0,
+   "min": 0.0
+  },
+  {
+   "id": "i8",
+   "name": "Pan rayado",
+   "unit": "kg",
+   "price": 1800.0,
+   "qty": 6.000000000000002,
+   "min": 5.0
+  },
+  {
+   "id": "i9",
+   "name": "Rebozador",
+   "unit": "kg",
+   "price": 2500.0,
+   "qty": 4.9,
+   "min": 0.0
+  },
+  {
+   "id": "i10",
+   "name": "Parmesano",
+   "unit": "kg",
+   "price": 18000.0,
+   "qty": 1.4700000000000002,
+   "min": 0.0
+  },
+  {
+   "id": "i11",
+   "name": "Ajo en polvo",
+   "unit": "kg",
+   "price": 12000.0,
+   "qty": 1.482,
+   "min": 0.0
+  },
+  {
+   "id": "i12",
+   "name": "Cebolla en polvo",
+   "unit": "kg",
+   "price": 12000.0,
+   "qty": 1.496,
+   "min": 0.0
+  },
+  {
+   "id": "i13",
+   "name": "Pimentón dulce",
+   "unit": "kg",
+   "price": 12000.0,
+   "qty": 1.498,
+   "min": 0.0
+  },
+  {
+   "id": "i14",
+   "name": "Pimienta negra",
+   "unit": "kg",
+   "price": 12000.0,
+   "qty": 1.492,
+   "min": 0.0
+  },
+  {
+   "id": "i15",
+   "name": "Perejil",
+   "unit": "kg",
+   "price": 12000.0,
+   "qty": 1.492,
+   "min": 0.0
+  },
+  {
+   "id": "i16",
+   "name": "Cereales",
+   "unit": "kg",
+   "price": 4000.0,
+   "qty": 1.42,
+   "min": 0.0
+  },
+  {
+   "id": "i17",
+   "name": "Jamon",
+   "unit": "kg",
+   "price": 12000.0,
+   "qty": 1.5,
+   "min": 0.0
+  },
+  {
+   "id": "i18",
+   "name": "Queso",
+   "unit": "kg",
+   "price": 9000.0,
+   "qty": 1.5,
+   "min": 0.0
+  },
+  {
+   "id": "i19",
+   "name": "Oliva",
+   "unit": "l",
+   "price": 9000.0,
+   "qty": 0.0,
+   "min": 0.0
+  },
+  {
+   "id": "i20",
+   "name": "Tomillo",
+   "unit": "kg",
+   "price": 12000.0,
+   "qty": 1.5,
+   "min": 0.0
+  },
+  {
+   "id": "i21",
+   "name": "Romero",
+   "unit": "kg",
+   "price": 12000.0,
+   "qty": 1.5,
+   "min": 0.0
+  },
+  {
+   "id": "i22",
+   "name": "Laurel",
+   "unit": "kg",
+   "price": 12000.0,
+   "qty": 1.5,
+   "min": 0.0
+  },
+  {
+   "id": "i23",
+   "name": "Pimenton ahumado",
+   "unit": "kg",
+   "price": 12000.0,
+   "qty": 1.476,
+   "min": 0.0
+  },
+  {
+   "id": "i24",
+   "name": "Mostaza",
+   "unit": "kg",
+   "price": 3500.0,
+   "qty": 1.45,
+   "min": 0.0
+  },
+  {
+   "id": "i25",
+   "name": "Carne de vaca",
+   "unit": "kg",
+   "price": 17000.0,
+   "qty": 17.0,
+   "min": 0.0
+  },
+  {
+   "id": "i26",
+   "name": "Carne de cerdo",
+   "unit": "kg",
+   "price": 9000.0,
+   "qty": 1.0,
+   "min": 10.0
+  },
+  {
+   "id": "i27",
+   "name": "Cebolla",
+   "unit": "kg",
+   "price": 1200.0,
+   "qty": 1.5,
+   "min": 0.0
+  },
+  {
+   "id": "i28",
+   "name": "Miel",
+   "unit": "kg",
+   "price": 6000.0,
+   "qty": 1.5,
+   "min": 0.0
+  }
+ ],
+ "links": {
+  "huevo": "i1",
+  "sal": "i2",
+  "etiqueta": "i3",
+  "bandeja": "i4",
+  "oregano": "i5",
+  "provenzal": "i6",
+  "pechuga de pollo": "i7",
+  "pan rayado": "i8",
+  "rebozador": "i9",
+  "parmesano": "i10",
+  "ajo en polvo": "i11",
+  "cebolla en polvo": "i12",
+  "pimenton dulce": "i13",
+  "pimienta negra": "i14",
+  "perejil": "i15",
+  "cereales": "i16",
+  "pechuga": "i7",
+  "jamon": "i17",
+  "queso": "i18",
+  "oliva": "i19",
+  "tomillo": "i20",
+  "romero": "i21",
+  "laurel": "i22",
+  "pimenton": "i13",
+  "pimienta": "i14",
+  "rebozdor": "i9",
+  "pimenton ahumado": "i23",
+  "mostaza": "i24",
+  "carne de vaca": "i25",
+  "carne vaca": "i25",
+  "carne de cerdo": "i26",
+  "cerdo": "i26",
+  "cebolla": "i27",
+  "miel": "i28"
+ },
+ "mil": {
+  "pollo-5": {
+   "qty": 54.0,
+   "min": 0.0
+  },
+  "pollo-34": {
+   "qty": 32.0,
+   "min": 0.0
+  },
+  "pollo-63": {
+   "qty": 15.0,
+   "min": 30.0
+  },
+  "pollo-92": {
+   "qty": 0.0,
+   "min": 0.0
+  },
+  "pollo-121": {
+   "qty": 0.0,
+   "min": 0.0
+  },
+  "vaca-5": {
+   "qty": 26.0,
+   "min": 0.0
+  },
+  "vaca-34": {
+   "qty": 22.0,
+   "min": 0.0
+  },
+  "vaca-63": {
+   "qty": 0.0,
+   "min": 0.0
+  },
+  "vaca-92": {
+   "qty": 0.0,
+   "min": 0.0
+  },
+  "vaca-121": {
+   "qty": 0.0,
+   "min": 0.0
+  },
+  "cerdo-5": {
+   "qty": 10.0,
+   "min": 0.0
+  },
+  "cerdo-34": {
+   "qty": 0.0,
+   "min": 0.0
+  },
+  "cerdo-63": {
+   "qty": 0.0,
+   "min": 0.0
+  },
+  "cerdo-92": {
+   "qty": 0.0,
+   "min": 0.0
+  }
+ },
+ "moves": [
+  {
+   "id": "m29",
+   "ts": 1791306493.2107887,
+   "undone": false,
+   "type": "buy",
+   "label": "Huevo",
+   "qty": 360.0,
+   "unit": "unidad",
+   "cost": 57600.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i1",
+     "d": 360.0
+    }
+   ],
+   "price_chg": [
+    "i1",
+    160.0,
+    160.0
+   ]
+  },
+  {
+   "id": "m30",
+   "ts": 1791306493.4317672,
+   "undone": false,
+   "type": "buy",
+   "label": "Sal",
+   "qty": 2.0,
+   "unit": "kg",
+   "cost": 1200.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i2",
+     "d": 2.0
+    }
+   ],
+   "price_chg": [
+    "i2",
+    600.0,
+    600.0
+   ]
+  },
+  {
+   "id": "m31",
+   "ts": 1791306493.6468267,
+   "undone": false,
+   "type": "buy",
+   "label": "Etiqueta",
+   "qty": 550.0,
+   "unit": "unidad",
+   "cost": 90200.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i3",
+     "d": 550.0
+    }
+   ],
+   "price_chg": [
+    "i3",
+    164.0,
+    164.0
+   ]
+  },
+  {
+   "id": "m32",
+   "ts": 1791306493.9343927,
+   "undone": false,
+   "type": "buy",
+   "label": "Bandeja",
+   "qty": 400.0,
+   "unit": "unidad",
+   "cost": 36000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i4",
+     "d": 400.0
+    }
+   ],
+   "price_chg": [
+    "i4",
+    90.0,
+    90.0
+   ]
+  },
+  {
+   "id": "m33",
+   "ts": 1791306494.161155,
+   "undone": false,
+   "type": "buy",
+   "label": "Oregano",
+   "qty": 1.5,
+   "unit": "kg",
+   "cost": 18000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i5",
+     "d": 1.5
+    }
+   ],
+   "price_chg": [
+    "i5",
+    12000.0,
+    12000.0
+   ]
+  },
+  {
+   "id": "m34",
+   "ts": 1791306494.374078,
+   "undone": false,
+   "type": "buy",
+   "label": "Provenzal",
+   "qty": 1.5,
+   "unit": "kg",
+   "cost": 18000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i6",
+     "d": 1.5
+    }
+   ],
+   "price_chg": [
+    "i6",
+    12000.0,
+    12000.0
+   ]
+  },
+  {
+   "id": "m35",
+   "ts": 1791306494.6006749,
+   "undone": false,
+   "type": "buy",
+   "label": "Pechuga de pollo",
+   "qty": 30.0,
+   "unit": "kg",
+   "cost": 195000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i7",
+     "d": 30.0
+    }
+   ],
+   "price_chg": [
+    "i7",
+    6500.0,
+    6500.0
+   ]
+  },
+  {
+   "id": "m36",
+   "ts": 1791306494.82526,
+   "undone": false,
+   "type": "buy",
+   "label": "Pan rayado",
+   "qty": 12.0,
+   "unit": "kg",
+   "cost": 21600.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i8",
+     "d": 12.0
+    }
+   ],
+   "price_chg": [
+    "i8",
+    1800.0,
+    1800.0
+   ]
+  },
+  {
+   "id": "m37",
+   "ts": 1791306495.0428739,
+   "undone": false,
+   "type": "buy",
+   "label": "Rebozador",
+   "qty": 6.0,
+   "unit": "kg",
+   "cost": 15000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i9",
+     "d": 6.0
+    }
+   ],
+   "price_chg": [
+    "i9",
+    2500.0,
+    2500.0
+   ]
+  },
+  {
+   "id": "m38",
+   "ts": 1791306495.3546343,
+   "undone": false,
+   "type": "buy",
+   "label": "Parmesano",
+   "qty": 1.5,
+   "unit": "kg",
+   "cost": 27000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i10",
+     "d": 1.5
+    }
+   ],
+   "price_chg": [
+    "i10",
+    18000.0,
+    18000.0
+   ]
+  },
+  {
+   "id": "m39",
+   "ts": 1791306495.562834,
+   "undone": false,
+   "type": "buy",
+   "label": "Ajo en polvo",
+   "qty": 1.5,
+   "unit": "kg",
+   "cost": 18000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i11",
+     "d": 1.5
+    }
+   ],
+   "price_chg": [
+    "i11",
+    12000.0,
+    12000.0
+   ]
+  },
+  {
+   "id": "m40",
+   "ts": 1791306495.7820196,
+   "undone": false,
+   "type": "buy",
+   "label": "Cebolla en polvo",
+   "qty": 1.5,
+   "unit": "kg",
+   "cost": 18000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i12",
+     "d": 1.5
+    }
+   ],
+   "price_chg": [
+    "i12",
+    12000.0,
+    12000.0
+   ]
+  },
+  {
+   "id": "m41",
+   "ts": 1791306495.9961233,
+   "undone": false,
+   "type": "buy",
+   "label": "Pimentón dulce",
+   "qty": 1.5,
+   "unit": "kg",
+   "cost": 18000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i13",
+     "d": 1.5
+    }
+   ],
+   "price_chg": [
+    "i13",
+    12000.0,
+    12000.0
+   ]
+  },
+  {
+   "id": "m42",
+   "ts": 1791306496.2074842,
+   "undone": false,
+   "type": "buy",
+   "label": "Pimienta negra",
+   "qty": 1.5,
+   "unit": "kg",
+   "cost": 18000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i14",
+     "d": 1.5
+    }
+   ],
+   "price_chg": [
+    "i14",
+    12000.0,
+    12000.0
+   ]
+  },
+  {
+   "id": "m43",
+   "ts": 1791306496.4309983,
+   "undone": false,
+   "type": "buy",
+   "label": "Perejil",
+   "qty": 1.5,
+   "unit": "kg",
+   "cost": 18000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i15",
+     "d": 1.5
+    }
+   ],
+   "price_chg": [
+    "i15",
+    12000.0,
+    12000.0
+   ]
+  },
+  {
+   "id": "m44",
+   "ts": 1791306496.662669,
+   "undone": false,
+   "type": "buy",
+   "label": "Cereales",
+   "qty": 1.5,
+   "unit": "kg",
+   "cost": 6000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i16",
+     "d": 1.5
+    }
+   ],
+   "price_chg": [
+    "i16",
+    4000.0,
+    4000.0
+   ]
+  },
+  {
+   "id": "m45",
+   "ts": 1791306496.974255,
+   "undone": false,
+   "type": "buy",
+   "label": "Jamon",
+   "qty": 1.5,
+   "unit": "kg",
+   "cost": 18000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i17",
+     "d": 1.5
+    }
+   ],
+   "price_chg": [
+    "i17",
+    12000.0,
+    12000.0
+   ]
+  },
+  {
+   "id": "m46",
+   "ts": 1791306497.191762,
+   "undone": false,
+   "type": "buy",
+   "label": "Queso",
+   "qty": 1.5,
+   "unit": "kg",
+   "cost": 13500.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i18",
+     "d": 1.5
+    }
+   ],
+   "price_chg": [
+    "i18",
+    9000.0,
+    9000.0
+   ]
+  },
+  {
+   "id": "m47",
+   "ts": 1791306497.4033992,
+   "undone": false,
+   "type": "buy",
+   "label": "Oliva",
+   "qty": 5.0,
+   "unit": "l",
+   "cost": 45000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i19",
+     "d": 5.0
+    }
+   ],
+   "price_chg": [
+    "i19",
+    9000.0,
+    9000.0
+   ]
+  },
+  {
+   "id": "m48",
+   "ts": 1791306497.6172566,
+   "undone": false,
+   "type": "buy",
+   "label": "Tomillo",
+   "qty": 1.5,
+   "unit": "kg",
+   "cost": 18000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i20",
+     "d": 1.5
+    }
+   ],
+   "price_chg": [
+    "i20",
+    12000.0,
+    12000.0
+   ]
+  },
+  {
+   "id": "m49",
+   "ts": 1791306497.8277504,
+   "undone": false,
+   "type": "buy",
+   "label": "Romero",
+   "qty": 1.5,
+   "unit": "kg",
+   "cost": 18000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i21",
+     "d": 1.5
+    }
+   ],
+   "price_chg": [
+    "i21",
+    12000.0,
+    12000.0
+   ]
+  },
+  {
+   "id": "m50",
+   "ts": 1791306498.038569,
+   "undone": false,
+   "type": "buy",
+   "label": "Laurel",
+   "qty": 1.5,
+   "unit": "kg",
+   "cost": 18000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i22",
+     "d": 1.5
+    }
+   ],
+   "price_chg": [
+    "i22",
+    12000.0,
+    12000.0
+   ]
+  },
+  {
+   "id": "m51",
+   "ts": 1791306498.2490156,
+   "undone": false,
+   "type": "buy",
+   "label": "Pimenton ahumado",
+   "qty": 1.5,
+   "unit": "kg",
+   "cost": 18000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i23",
+     "d": 1.5
+    }
+   ],
+   "price_chg": [
+    "i23",
+    12000.0,
+    12000.0
+   ]
+  },
+  {
+   "id": "m52",
+   "ts": 1791306498.540686,
+   "undone": false,
+   "type": "buy",
+   "label": "Mostaza",
+   "qty": 1.5,
+   "unit": "kg",
+   "cost": 5250.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i24",
+     "d": 1.5
+    }
+   ],
+   "price_chg": [
+    "i24",
+    3500.0,
+    3500.0
+   ]
+  },
+  {
+   "id": "m53",
+   "ts": 1791306498.7548423,
+   "undone": false,
+   "type": "buy",
+   "label": "Carne de vaca",
+   "qty": 25.0,
+   "unit": "kg",
+   "cost": 425000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i25",
+     "d": 25.0
+    }
+   ],
+   "price_chg": [
+    "i25",
+    17000.0,
+    17000.0
+   ]
+  },
+  {
+   "id": "m54",
+   "ts": 1791306498.969293,
+   "undone": false,
+   "type": "buy",
+   "label": "Carne de cerdo",
+   "qty": 3.0,
+   "unit": "kg",
+   "cost": 27000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i26",
+     "d": 3.0
+    }
+   ],
+   "price_chg": [
+    "i26",
+    9000.0,
+    9000.0
+   ]
+  },
+  {
+   "id": "m55",
+   "ts": 1791306499.1888845,
+   "undone": false,
+   "type": "buy",
+   "label": "Cebolla",
+   "qty": 1.5,
+   "unit": "kg",
+   "cost": 1800.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i27",
+     "d": 1.5
+    }
+   ],
+   "price_chg": [
+    "i27",
+    1200.0,
+    1200.0
+   ]
+  },
+  {
+   "id": "m56",
+   "ts": 1791306499.399359,
+   "undone": false,
+   "type": "buy",
+   "label": "Miel",
+   "qty": 1.5,
+   "unit": "kg",
+   "cost": 9000.0,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i28",
+     "d": 1.5
+    }
+   ],
+   "price_chg": [
+    "i28",
+    6000.0,
+    6000.0
+   ]
+  },
+  {
+   "id": "m57",
+   "ts": 1791306499.5108702,
+   "undone": false,
+   "type": "adjust",
+   "label": "Oliva",
+   "qty": -5.0,
+   "unit": "l",
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i19",
+     "d": -5.0
+    }
+   ]
+  },
+  {
+   "id": "m58",
+   "ts": 1791306502.1149507,
+   "undone": false,
+   "type": "prod",
+   "label": "Suprema Tradicional (Pollo)",
+   "qty": 45,
+   "unit": "u",
+   "kg": 6.0,
+   "unit_cost": 1015.0666666666667,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i1",
+     "d": -12.0
+    },
+    {
+     "k": "i",
+     "id": "i2",
+     "d": -0.06
+    },
+    {
+     "k": "i",
+     "id": "i3",
+     "d": -6.0
+    },
+    {
+     "k": "i",
+     "id": "i4",
+     "d": -6.0
+    },
+    {
+     "k": "i",
+     "id": "i5",
+     "d": -0.012
+    },
+    {
+     "k": "i",
+     "id": "i6",
+     "d": -0.012
+    },
+    {
+     "k": "i",
+     "id": "i7",
+     "d": -6.0
+    },
+    {
+     "k": "i",
+     "id": "i8",
+     "d": -1.2
+    },
+    {
+     "k": "i",
+     "id": "i9",
+     "d": -0.3
+    },
+    {
+     "k": "m",
+     "id": "pollo-5",
+     "d": 45
+    }
+   ]
+  },
+  {
+   "id": "m59",
+   "ts": 1791306502.229638,
+   "undone": false,
+   "type": "sell",
+   "label": "Suprema Tradicional (Pollo)",
+   "qty": 18.0,
+   "unit": "u",
+   "price": 6500.0,
+   "unit_cost": 1015.0666666666667,
+   "deltas": [
+    {
+     "k": "m",
+     "id": "pollo-5",
+     "d": -18.0
+    }
+   ]
+  },
+  {
+   "id": "m60",
+   "ts": 1791306502.3380613,
+   "undone": false,
+   "type": "prod",
+   "label": "Suprema Parmesana (Pollo)",
+   "qty": 22,
+   "unit": "u",
+   "kg": 3.0,
+   "unit_cost": 1007.2,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i1",
+     "d": -6.0
+    },
+    {
+     "k": "i",
+     "id": "i2",
+     "d": -0.03
+    },
+    {
+     "k": "i",
+     "id": "i3",
+     "d": -3.0
+    },
+    {
+     "k": "i",
+     "id": "i4",
+     "d": -3.0
+    },
+    {
+     "k": "i",
+     "id": "i5",
+     "d": -0.006
+    },
+    {
+     "k": "i",
+     "id": "i7",
+     "d": -3.0
+    },
+    {
+     "k": "i",
+     "id": "i8",
+     "d": -0.6
+    },
+    {
+     "k": "i",
+     "id": "i10",
+     "d": -0.015
+    },
+    {
+     "k": "m",
+     "id": "pollo-34",
+     "d": 22
+    }
+   ]
+  },
+  {
+   "id": "m61",
+   "ts": 1791306502.4471288,
+   "undone": false,
+   "type": "sell",
+   "label": "Suprema Parmesana (Pollo)",
+   "qty": 6.0,
+   "unit": "u",
+   "price": 6500.0,
+   "unit_cost": 1007.2,
+   "deltas": [
+    {
+     "k": "m",
+     "id": "pollo-34",
+     "d": -6.0
+    }
+   ]
+  },
+  {
+   "id": "m62",
+   "ts": 1791306508.2109387,
+   "undone": false,
+   "type": "prod",
+   "label": "Suprema Tradicional (Pollo)",
+   "qty": 45,
+   "unit": "u",
+   "kg": 6.0,
+   "unit_cost": 1015.0666666666667,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i1",
+     "d": -12.0
+    },
+    {
+     "k": "i",
+     "id": "i2",
+     "d": -0.06
+    },
+    {
+     "k": "i",
+     "id": "i3",
+     "d": -6.0
+    },
+    {
+     "k": "i",
+     "id": "i4",
+     "d": -6.0
+    },
+    {
+     "k": "i",
+     "id": "i5",
+     "d": -0.012
+    },
+    {
+     "k": "i",
+     "id": "i6",
+     "d": -0.012
+    },
+    {
+     "k": "i",
+     "id": "i7",
+     "d": -6.0
+    },
+    {
+     "k": "i",
+     "id": "i8",
+     "d": -1.2
+    },
+    {
+     "k": "i",
+     "id": "i9",
+     "d": -0.3
+    },
+    {
+     "k": "m",
+     "id": "pollo-5",
+     "d": 45
+    }
+   ]
+  },
+  {
+   "id": "m63",
+   "ts": 1791306508.3284829,
+   "undone": false,
+   "type": "sell",
+   "label": "Suprema Tradicional (Pollo)",
+   "qty": 18.0,
+   "unit": "u",
+   "price": 6500.0,
+   "unit_cost": 1015.0666666666667,
+   "deltas": [
+    {
+     "k": "m",
+     "id": "pollo-5",
+     "d": -18.0
+    }
+   ]
+  },
+  {
+   "id": "m64",
+   "ts": 1791306508.5355012,
+   "undone": false,
+   "type": "prod",
+   "label": "Suprema Parmesana (Pollo)",
+   "qty": 22,
+   "unit": "u",
+   "kg": 3.0,
+   "unit_cost": 1007.2,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i1",
+     "d": -6.0
+    },
+    {
+     "k": "i",
+     "id": "i2",
+     "d": -0.03
+    },
+    {
+     "k": "i",
+     "id": "i3",
+     "d": -3.0
+    },
+    {
+     "k": "i",
+     "id": "i4",
+     "d": -3.0
+    },
+    {
+     "k": "i",
+     "id": "i5",
+     "d": -0.006
+    },
+    {
+     "k": "i",
+     "id": "i7",
+     "d": -3.0
+    },
+    {
+     "k": "i",
+     "id": "i8",
+     "d": -0.6
+    },
+    {
+     "k": "i",
+     "id": "i10",
+     "d": -0.015
+    },
+    {
+     "k": "m",
+     "id": "pollo-34",
+     "d": 22
+    }
+   ]
+  },
+  {
+   "id": "m65",
+   "ts": 1791306508.644224,
+   "undone": false,
+   "type": "sell",
+   "label": "Suprema Parmesana (Pollo)",
+   "qty": 6.0,
+   "unit": "u",
+   "price": 6500.0,
+   "unit_cost": 1007.2,
+   "deltas": [
+    {
+     "k": "m",
+     "id": "pollo-34",
+     "d": -6.0
+    }
+   ]
+  },
+  {
+   "id": "m66",
+   "ts": 1791306508.751357,
+   "undone": false,
+   "type": "prod",
+   "label": "Vacuno Tradicional",
+   "qty": 38,
+   "unit": "u",
+   "kg": 5.0,
+   "unit_cost": 2411.866666666667,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i1",
+     "d": -10.0
+    },
+    {
+     "k": "i",
+     "id": "i2",
+     "d": -0.05
+    },
+    {
+     "k": "i",
+     "id": "i3",
+     "d": -5.0
+    },
+    {
+     "k": "i",
+     "id": "i4",
+     "d": -5.0
+    },
+    {
+     "k": "i",
+     "id": "i25",
+     "d": -5.0
+    },
+    {
+     "k": "i",
+     "id": "i8",
+     "d": -1.0
+    },
+    {
+     "k": "i",
+     "id": "i9",
+     "d": -0.25
+    },
+    {
+     "k": "i",
+     "id": "i5",
+     "d": -0.01
+    },
+    {
+     "k": "m",
+     "id": "vaca-5",
+     "d": 38
+    }
+   ]
+  },
+  {
+   "id": "m67",
+   "ts": 1791306508.8668714,
+   "undone": false,
+   "type": "sell",
+   "label": "Vacuno Tradicional",
+   "qty": 12.0,
+   "unit": "u",
+   "price": 7500.0,
+   "unit_cost": 2411.866666666667,
+   "deltas": [
+    {
+     "k": "m",
+     "id": "vaca-5",
+     "d": -12.0
+    }
+   ]
+  },
+  {
+   "id": "m68",
+   "ts": 1791306508.9790988,
+   "undone": false,
+   "type": "prod",
+   "label": "Vacuno Ahumado",
+   "qty": 22,
+   "unit": "u",
+   "kg": 3.0,
+   "unit_cost": 2438.9333333333334,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i1",
+     "d": -6.0
+    },
+    {
+     "k": "i",
+     "id": "i2",
+     "d": -0.03
+    },
+    {
+     "k": "i",
+     "id": "i3",
+     "d": -3.0
+    },
+    {
+     "k": "i",
+     "id": "i4",
+     "d": -3.0
+    },
+    {
+     "k": "i",
+     "id": "i23",
+     "d": -0.024
+    },
+    {
+     "k": "i",
+     "id": "i11",
+     "d": -0.012
+    },
+    {
+     "k": "i",
+     "id": "i15",
+     "d": -0.006
+    },
+    {
+     "k": "i",
+     "id": "i14",
+     "d": -0.006
+    },
+    {
+     "k": "i",
+     "id": "i24",
+     "d": -0.03
+    },
+    {
+     "k": "i",
+     "id": "i25",
+     "d": -3.0
+    },
+    {
+     "k": "i",
+     "id": "i8",
+     "d": -0.6
+    },
+    {
+     "k": "i",
+     "id": "i9",
+     "d": -0.15
+    },
+    {
+     "k": "m",
+     "id": "vaca-34",
+     "d": 22
+    }
+   ]
+  },
+  {
+   "id": "m69",
+   "ts": 1791306509.0914726,
+   "undone": false,
+   "type": "prod",
+   "label": "Cerdo Tradicional",
+   "qty": 15,
+   "unit": "u",
+   "kg": 2.0,
+   "unit_cost": 1349.8666666666666,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i1",
+     "d": -4.0
+    },
+    {
+     "k": "i",
+     "id": "i2",
+     "d": -0.02
+    },
+    {
+     "k": "i",
+     "id": "i3",
+     "d": -2.0
+    },
+    {
+     "k": "i",
+     "id": "i4",
+     "d": -2.0
+    },
+    {
+     "k": "i",
+     "id": "i5",
+     "d": -0.004
+    },
+    {
+     "k": "i",
+     "id": "i24",
+     "d": -0.02
+    },
+    {
+     "k": "i",
+     "id": "i26",
+     "d": -2.0
+    },
+    {
+     "k": "i",
+     "id": "i8",
+     "d": -0.4
+    },
+    {
+     "k": "i",
+     "id": "i9",
+     "d": -0.1
+    },
+    {
+     "k": "m",
+     "id": "cerdo-5",
+     "d": 15
+    }
+   ]
+  },
+  {
+   "id": "m70",
+   "ts": 1791306509.2033243,
+   "undone": false,
+   "type": "sell",
+   "label": "Cerdo Tradicional",
+   "qty": 5.0,
+   "unit": "u",
+   "price": 6800.0,
+   "unit_cost": 1349.8666666666666,
+   "deltas": [
+    {
+     "k": "m",
+     "id": "cerdo-5",
+     "d": -5.0
+    }
+   ]
+  },
+  {
+   "id": "m71",
+   "ts": 1791306509.3138263,
+   "undone": false,
+   "type": "prod",
+   "label": "Suprema Crunch (Pollo)",
+   "qty": 15,
+   "unit": "u",
+   "kg": 2.0,
+   "unit_cost": 1028.5333333333333,
+   "deltas": [
+    {
+     "k": "i",
+     "id": "i1",
+     "d": -4.0
+    },
+    {
+     "k": "i",
+     "id": "i2",
+     "d": -0.02
+    },
+    {
+     "k": "i",
+     "id": "i3",
+     "d": -2.0
+    },
+    {
+     "k": "i",
+     "id": "i4",
+     "d": -2.0
+    },
+    {
+     "k": "i",
+     "id": "i11",
+     "d": -0.006
+    },
+    {
+     "k": "i",
+     "id": "i12",
+     "d": -0.004
+    },
+    {
+     "k": "i",
+     "id": "i5",
+     "d": -0.003
+    },
+    {
+     "k": "i",
+     "id": "i13",
+     "d": -0.002
+    },
+    {
+     "k": "i",
+     "id": "i14",
+     "d": -0.002
+    },
+    {
+     "k": "i",
+     "id": "i15",
+     "d": -0.002
+    },
+    {
+     "k": "i",
+     "id": "i8",
+     "d": -0.4
+    },
+    {
+     "k": "i",
+     "id": "i16",
+     "d": -0.08
+    },
+    {
+     "k": "i",
+     "id": "i7",
+     "d": -2.0
+    },
+    {
+     "k": "m",
+     "id": "pollo-63",
+     "d": 15
+    }
+   ]
+  }
+ ]
+}
